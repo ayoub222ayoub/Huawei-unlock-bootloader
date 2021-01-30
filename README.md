@@ -10,9 +10,14 @@ p30 pro
 
 p20 pro
 
-Honor 5x 8x and 9x
+Honor 5x 
 
-Honor view 10 and 20
+Honor 8x 
+
+Honor 9x
+
+Honor 10 
+Honor 20
 
 Honor 10 lite
 
