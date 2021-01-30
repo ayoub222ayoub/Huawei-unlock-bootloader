@@ -26,8 +26,6 @@ OneClick
 
 all data will be erased on unlock
 
-1h to 1 day
-
  imel number
  
  python script
