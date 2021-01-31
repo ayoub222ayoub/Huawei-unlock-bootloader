@@ -1,0 +1,35 @@
+[==HUAWEI P20==]
+
+Huawei P20 EML-L29/EML-L29C EU
+Huawei P20 EML-L29/EML-L29C CEA
+Huawei P20 EML-L29/EML-L29C EU
+Huawei P20 EML-L29/EML-L29C RU
+
+
+[==HUAWEI P20 LITE==]
+
+Huawei P20 lite ANE-LX1 / ANE-L21 CEA
+Huawei P20 lite ANE-LX1 / ANE-L21 RU
+Huawei P20 lite ANE-LX1 / ANE-L21 EU
+Huawei P20 lite ANE-LX2 / ANE-L22 MEA
+Huawei P20 lite ANE-LX3 / ANE-L23
+
+[==HUAWEI P20 PRO==]
+
+Huawei P20 Pro CLT-L29 / CLT-L29C (C432)
+Huawei P20 Pro CLT-L29 / CLT-L29C (C431)
+
+[== HUAWEI ==]
+p30                (all)  
+p30 pro            (all) 
+Honor 5x           (all) 
+Honor 8x           (all) 
+Honor 9x           (all) 
+Honor 10 Honor 20  (all) 
+Honor 10 lite      (all)  
+Huawei Y6 2019     (all)  
+time 1 hour to 2 day max
+
+
+this Ver Full Edite AND add more model 
+BY Chernobylll
